@@ -1,0 +1,28 @@
+id: I570DE544
+default_language: en
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-14 18:24:53.934602+00:00
+last_modified: 2022-12-14 18:24:53.934608+00:00
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-03-26T16:01:47.493Z'
+  creationid: celso
+  eft-text-id: UT22084-054-003
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_122-Wisdom_at_the_Hour_of_Death-v1
+bases:
+  0A2A:
+    source_metadata: null
+    order: 1
+    base_file: 0A2A.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''

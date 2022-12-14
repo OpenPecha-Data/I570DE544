@@ -1,0 +1,120 @@
+id: 4341cc7da2ab42b4a80a65ccb7e8c4dc
+annotation_type: Segment
+revision: '00001'
+annotations:
+  94a026fb335747d7a65f45adde786e09:
+    span:
+      start: 0
+      end: 38
+  78016790179d40e2ac278094e73d9993:
+    span:
+      start: 40
+      end: 67
+  2e371c5a02dc482eb2965c67a94e6dc9:
+    span:
+      start: 69
+      end: 164
+  927b842358614d7081cf74defae0304c:
+    span:
+      start: 166
+      end: 209
+  b8101e1fb7e041f58d7011c566cc5205:
+    span:
+      start: 211
+      end: 295
+  af9dc29fdaac4760ab33572443ee52bb:
+    span:
+      start: 297
+      end: 383
+  54bbedcf933c42d9970bf1a695747d9c:
+    span:
+      start: 385
+      end: 408
+  fb61423b843f438b9484f948353b285e:
+    span:
+      start: 410
+      end: 511
+  50078c30415a4b11b56dbd6f666ef470:
+    span:
+      start: 513
+      end: 558
+  da5a77409c6246ba9ff86882df14b3d7:
+    span:
+      start: 560
+      end: 669
+  40f913294c3043289c422e695592297b:
+    span:
+      start: 671
+      end: 800
+  2ae2bdfde4e24124b78eae09c5a5098b:
+    span:
+      start: 802
+      end: 908
+  c6b1eba55c764498804b5dbc1baf2d34:
+    span:
+      start: 910
+      end: 1029
+  ea42e07081964eccba462ccd265521d8:
+    span:
+      start: 1031
+      end: 1156
+  da4d5245107d4c91b28c33c9db8664c3:
+    span:
+      start: 1158
+      end: 1205
+  9b1097d502174d77bb652d97e23b160b:
+    span:
+      start: 1207
+      end: 1246
+  b57189c352cb40ff9e3b9ee14f4643f0:
+    span:
+      start: 1248
+      end: 1319
+  042b2ef00be54827923e304acf4cdbb4:
+    span:
+      start: 1321
+      end: 1381
+  32cf5ff858954b868d2c7b661ec3a80d:
+    span:
+      start: 1383
+      end: 1447
+  31c4d22910c44a7085e4839fb61b7a16:
+    span:
+      start: 1449
+      end: 1492
+  b79eeb8d05d34ac180d98e74f4a13962:
+    span:
+      start: 1494
+      end: 1558
+  06d91f68c208495d8ac48c5f1b228a8a:
+    span:
+      start: 1560
+      end: 1595
+  3b8d18dbeec747409113ce87b755a983:
+    span:
+      start: 1597
+      end: 1659
+  00a85ec4b6dc48c6be5a69be24c6c95a:
+    span:
+      start: 1661
+      end: 1715
+  0ac827efad0b401baf3fa5e14be5bd46:
+    span:
+      start: 1717
+      end: 1754
+  29b1a59692f6467da91b099aa04504da:
+    span:
+      start: 1756
+      end: 1843
+  44dd6e337d5f4015995592c563654ded:
+    span:
+      start: 1845
+      end: 1882
+  c9451b284ab84027904dd980d27007b0:
+    span:
+      start: 1884
+      end: 1954
+  72699c9eaad74e90aefa4de0a5702c31:
+    span:
+      start: 1956
+      end: 1988
